@@ -47,4 +47,4 @@ This project is currently in the **Development** stage. The core hardware schema
 
 For technical inquiries, partnership opportunities, or access requests, please contact me via:
 - **GitHub:** [Open an Issue](https://github.com)
-- **Email:** [Your Email Address]
+- **Email:** jybarra1979@gmail.com
