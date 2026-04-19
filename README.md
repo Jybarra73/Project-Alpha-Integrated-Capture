@@ -39,3 +39,12 @@ Project-Alpha-Integrated is a professional-grade hardware bridge and software su
 - **Thermal Safeguards:** Automated power throttling based on hardware temperature limits.
 - **Dynamic Themes:** Automatic night-mode triggers linked to vehicle lighting status.
 - **Safety Interlocks:** Automated lockout of non-essential interactive elements based on vehicle motion.
+
+---
+
+## 🤝 Collaboration & Inquiries
+This project is currently in the **Development** stage. The core hardware schematics and firmware source code are maintained in a private repository to protect intellectual property.
+
+For technical inquiries, partnership opportunities, or access requests, please contact me via:
+- **GitHub:** [Open an Issue](https://github.com)
+- **Email:** [Your Email Address]
